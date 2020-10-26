@@ -6,6 +6,9 @@
 
 https://tom-tan.github.io/newpage/
 
+`layout: post` もしくは `_posts` 以下に配置しないとコメントは有効化されない模様
+- https://tom-tan.github.io/newpage/sampledir/example.html
+
 # My Blog
 
 
