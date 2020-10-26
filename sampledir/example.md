@@ -1,6 +1,6 @@
 ---
 Title: This is not a blog post
-layout: default
+layout: post
 comments: true
 ---
 
