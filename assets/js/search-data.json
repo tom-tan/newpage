@@ -38,6 +38,17 @@
   
 
   
+      ,"page2": {
+          "title": "",
+          "content": "Foo . bar | buzz | .",
+          "url": "https://tom-tan.github.io/newpage/sampledir/example.html",
+          "relUrl": "/sampledir/example.html",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -59,7 +70,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://tom-tan.github.io/newpage/robots.txt",
